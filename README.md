@@ -17,9 +17,8 @@ Over 200,000 TLC licensees complete approximately 1,000,000 trips each day. To o
 2.  Install  [Docker Compose](https://docs.docker.com/compose/install/)  v1.29.1 and newer on your workstation.
 3. Clone the repository in your directory
 
-        git clone git@github.com:AlirezaHabibi2010/taxi-statistic.git
-        cd taxi-statistic
-        git switch pipeline
+        git clone git@github.com:AlirezaHabibi2010/Pipeline-to-Extract-TLC-DATA.git
+        cd Pipeline-to-Extract-TLC-DATA
 
  ### Running Airflow
 It's time to create and docker container with airflow. All container information exists in the the file named *'docker-compose.yaml'*. First go to the repository folder and run the following commands to initiate the container.
