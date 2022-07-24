@@ -1,0 +1,5 @@
+{"remote_url_directory" : "https://s3.amazonaws.com/nyc-tlc/trip+data/",
+  "data_directory":"./data/",
+  "taxi_kinds":
+  ["green","yellow"]
+}
